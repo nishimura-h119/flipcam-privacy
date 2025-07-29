@@ -1,1 +1,43 @@
-# flipcam-privacy
+
+<body style="max-width: 800px; margin: auto; padding: 2em; font-family: sans-serif; line-height: 1.6;">
+  <h1>FlipCam プライバシーポリシー</h1>
+  <p><strong>FlipCam - 反転カメラ・静止画キャプチャアプリ</strong>（以下「本アプリ」）は、ユーザーのプライバシーを尊重し、以下の方針に基づいて運用されています。</p>
+
+  <h2>1. 取得する情報について</h2>
+  <p>本アプリは、ユーザーの個人情報（氏名、連絡先、位置情報、端末情報など）を一切収集・送信・保存いたしません。</p>
+
+  <h2>2. カメラの利用について</h2>
+  <p>本アプリは、端末のカメラにアクセスし、リアルタイムの映像を反転表示するために使用します。映像データは端末内で処理され、外部サーバーへの送信や保存は一切行いません。</p>
+
+  <h2>3. 第三者サービスの利用</h2>
+  <p>本アプリは、広告配信サービス、アナリティクスサービス、クラウドサーバー等の第三者サービスを使用しておりません。</p>
+
+  <h2>4. Appleの分析機能について</h2>
+  <p>Appleが提供するアプリ分析機能（例：App Store Connectのアナリティクス）により、アプリの使用状況がAppleによって収集される場合があります。この収集はAppleのプライバシーポリシーに基づいて行われます。</p>
+
+  <h2>5. お問い合わせ</h2>
+  <p>ご質問がある場合は、以下の方法でご連絡ください。<br>
+  <em>[メールアドレスやサポートページをここに記載]</em></p>
+
+  <hr>
+
+  <h1>Privacy Policy</h1>
+  <p><strong>FlipCam - Mirror Camera & Still Capture App</strong> (hereinafter referred to as "the App") respects your privacy and is committed to protecting your personal information.</p>
+
+  <h2>1. Information Collection</h2>
+  <p>The App does <strong>not</strong> collect, transmit, or store any personal information such as name, contact details, location data, or device identifiers.</p>
+
+  <h2>2. Use of Camera</h2>
+  <p>The App accesses your device's camera to provide real-time mirrored image display. All processing is done locally on the device, and no image or video data is transmitted or stored externally.</p>
+
+  <h2>3. Use of Third-party Services</h2>
+  <p>The App does <strong>not</strong> use any third-party services such as advertising platforms, analytics tools, or cloud servers.</p>
+
+  <h2>4. Apple Analytics</h2>
+  <p>Please note that Apple may collect anonymized usage data through its own analytics services (e.g., App Store Connect analytics). This data collection is governed by Apple’s privacy policy.</p>
+
+  <h2>5. Contact</h2>
+  <p>If you have any questions or concerns about this privacy policy, please contact us at:<br>
+  <em>[Insert your contact method here]</em></p>
+</body>
+</html>
